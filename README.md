@@ -2,7 +2,9 @@
 ```markdown
 # BlogPosts
 
-A simple blog post application that allows users to view, create, and manage blog posts. This project uses the JSONPlaceholder API for testing and provides features like fetching, displaying, and adding posts.
+A simple blog post application that allows users to view, create, and manage blog posts.
+This project uses the JSONPlaceholder API
+for testing and provides features like fetching, displaying, and adding posts.
 
 ## Features
 
@@ -20,7 +22,9 @@ A simple blog post application that allows users to view, create, and manage blo
 
 ### 2. Install Dependencies
 
-Since this is a front-end project, you don't need to install server-side dependencies, but you can use **`Live Server`** in your editor for a quick preview or configure any local server to serve the files.
+Since this is a front-end project, you don't need to install server-side dependencies,
+but you can use **`Live Server`** in your editor for a quick preview
+or configure any local server to serve the files.
 
 ### 3. Open the Project
 
