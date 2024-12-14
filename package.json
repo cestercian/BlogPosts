@@ -1,0 +1,12 @@
+{
+  "name": "BlogPosts",
+  "version": "1.0.0",
+  "description": "A simple blog post application to manage posts dynamically.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "private": true
+}
